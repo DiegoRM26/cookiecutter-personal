@@ -1,0 +1,10 @@
+{
+    "project_name": "cookiecutter_project",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+    "project_description": "A cookiecutter template for R projects",
+    "project_author_name": "Your Name",
+    "email": "",
+    "project_packages": ["all", "Minimal"],
+    "python_version": "3.11",
+    "project_title": "My Project Title"
+}
